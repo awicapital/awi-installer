@@ -1,0 +1,15 @@
+D:\awi-installer\installer-src\AwiInstaller\bin\Release\net8.0-windows\AwiInstaller.exe
+D:\awi-installer\installer-src\AwiInstaller\bin\Release\net8.0-windows\AwiInstaller.deps.json
+D:\awi-installer\installer-src\AwiInstaller\bin\Release\net8.0-windows\AwiInstaller.runtimeconfig.json
+D:\awi-installer\installer-src\AwiInstaller\bin\Release\net8.0-windows\AwiInstaller.dll
+D:\awi-installer\installer-src\AwiInstaller\bin\Release\net8.0-windows\AwiInstaller.pdb
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.AssemblyInfoInputs.cache
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.AssemblyInfo.cs
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.csproj.CoreCompileInputs.cache
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.sourcelink.json
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.dll
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\refint\AwiInstaller.dll
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.pdb
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\AwiInstaller.genruntimeconfig.cache
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0-windows\ref\AwiInstaller.dll

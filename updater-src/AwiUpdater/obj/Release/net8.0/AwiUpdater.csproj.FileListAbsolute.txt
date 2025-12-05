@@ -1,0 +1,15 @@
+D:\awi-installer\updater-src\AwiUpdater\bin\Release\net8.0\AwiUpdater.exe
+D:\awi-installer\updater-src\AwiUpdater\bin\Release\net8.0\AwiUpdater.deps.json
+D:\awi-installer\updater-src\AwiUpdater\bin\Release\net8.0\AwiUpdater.runtimeconfig.json
+D:\awi-installer\updater-src\AwiUpdater\bin\Release\net8.0\AwiUpdater.dll
+D:\awi-installer\updater-src\AwiUpdater\bin\Release\net8.0\AwiUpdater.pdb
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.AssemblyInfoInputs.cache
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.AssemblyInfo.cs
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.csproj.CoreCompileInputs.cache
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.sourcelink.json
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.dll
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\refint\AwiUpdater.dll
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.pdb
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\AwiUpdater.genruntimeconfig.cache
+D:\awi-installer\updater-src\AwiUpdater\obj\Release\net8.0\ref\AwiUpdater.dll

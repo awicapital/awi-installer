@@ -1,0 +1,5 @@
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0\AwiInstaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0\AwiInstaller.AssemblyInfoInputs.cache
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0\AwiInstaller.AssemblyInfo.cs
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0\AwiInstaller.csproj.CoreCompileInputs.cache
+D:\awi-installer\installer-src\AwiInstaller\obj\Release\net8.0\AwiInstaller.sourcelink.json
