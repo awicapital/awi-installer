@@ -1,0 +1,8 @@
+{ 
+  "version": "1.0.0", 
+  "downloadUrl": "https://raw.githubusercontent.com/awicapital/awi-installer/main/releases/awi-1.0.0.zip", 
+  "mandatory": false, 
+  "changes": [ 
+    "Primeiro release do AWI Installer." 
+  ] 
+} 
